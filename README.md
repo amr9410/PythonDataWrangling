@@ -6,3 +6,4 @@ Steps:
 3. Clean
 4. Analyze
 5. Visualisations
+6. Write 2 reports
